@@ -1,4 +1,4 @@
-const ChatRoom = require('../lib/chatroom');
+const ChatRoom = require('../lib/ChatRoom');
 
 describe('ChatRoom', () => {
   let clients = null;
